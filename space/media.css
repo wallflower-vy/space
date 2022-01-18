@@ -1,0 +1,167 @@
+@media screen and (max-width: 731px){
+    h3{
+       float: left;
+       padding-top: -10px;
+    }
+    .nav-item-box{
+        display: none;
+        width :100%;
+        top:80px;
+        position: absolute;
+        background: #FFF5D8;
+        z-index:1;
+        margin-left: -20px;
+    }
+    .menu{
+        display: block;
+        padding-top: 15px;
+        float: right;
+    }
+    .close-menu{
+        display: none;
+        padding-top: 15px;
+        float: right;
+    }
+    .nav-item-box > ul{
+        display: block;
+    }
+    .first-left-box{
+        width: 100%;
+    }
+    .left-content-box{
+        width: 100%;
+        margin-left:0px;
+        font-size:16px 
+    }
+    .bottom-row-content{
+        margin-top:10px;;
+    }
+    .ceo-details{
+        margin-top: 5px;
+        height:50px;
+    }
+    .picture{
+        padding: 0px;
+    }
+    .pic-text2{
+        font-size: 16px;
+    }
+    .first-right-box{
+        display: none;
+    }
+    .second-box{
+        margin-top: 0px;
+    }
+    .second-left-box{
+        display: none;
+    }
+    .second-right-box {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .second-box-heading{
+        font-size: 24px;
+    }
+    .third-box{
+       display: none;
+    }
+    .forth-left-box{
+        width:100%;
+    }
+    .forth-box-image{
+        width: 100%;
+    }
+    .forth-right-box{
+        width: 100%;
+    }
+    .forth-headin{
+        font-size: 30px;
+    }
+    .forth-box-content {
+        width: 100%;
+        margin-top: -50px;
+        margin-left: 0px;
+    }
+    .fifth-left-box{
+       width: 100%;
+    }
+    .fifth-right-box{
+        width: 100%;
+    }
+    .forth-box-image2{
+        width: 100%;
+    }
+    .fifth-box{
+        height: 650px;
+    }
+    .fifth-box-content{
+        margin-top: -50px;
+    }
+    .jumbo{
+        font-size: 24px;
+    } 
+    .card-box{
+        height: 1150px;
+    }
+    .card-one{
+        width: 100%;
+        height: 250px;
+    }
+    .box-two-left {
+        width: 100%;
+    }
+    .box-two-right{
+        width: 100%;
+    }
+    .box-three-left {
+        width:100%;
+        text-align: center;
+    }
+   .what-we-do-card{
+       height: 1100px;
+   }
+    .box-three-right {
+        width:100%;
+    } 
+     .card{
+        width: 90%;
+    }
+    .image-cards{
+        width: 100%;
+    }
+    .profile-box{
+        height: 1900px;
+    } 
+    .testimonial-text{
+        font-size: 20px;
+    }
+    .pic-details{
+        margin-top: -15px;
+    }
+    .second-button{
+        width: 100%;
+        margin-left: -10px
+
+    }
+    .platform-text-box{
+        width:90%;
+    }
+    .platform-button-box{
+        /* background: red; */
+        width:100%;
+        /* margin-left: -60px */
+    }
+    .footer{
+        margin-top: 30px;
+    }
+    .space{
+        width: 100%;
+    }
+    .pages{
+        width: 100%; 
+    }
+    .line{
+        width:100;
+    }
+    
+    }
